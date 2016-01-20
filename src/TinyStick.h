@@ -4,7 +4,7 @@
 #define TinyGlobal(address, type) (*((type*)(address)))
 
 #define True 1
-#define Flase 0
+#define False 0
 
 typedef unsigned long DWORD;
 typedef unsigned short WORD;
